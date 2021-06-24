@@ -1,0 +1,47 @@
+.x-size {
+    font-size: 50%;
+}
+
+.style-link-inicio {
+    
+    font-family: 'Bebas Neue', cursive;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+
+.header-style {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.title {
+    font-style: italic;
+    letter-spacing: 10px;
+    font-size: 100px;
+    transition: all 4s;
+}
+
+.sub-title {
+    font-style: italic;
+    letter-spacing: 2px;
+    font-size: 35px;
+    word-spacing: 10px;
+}
+
+.title:hover {
+    transform: rotate(1440deg);
+}
+
+h3 {
+    font-size: 42px;
+    padding: 0;
+    margin: 0;
+}
+
+.style-link-inicio:hover {
+    background-color: grey;
+    color: black;
+}

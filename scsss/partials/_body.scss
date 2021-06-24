@@ -1,0 +1,104 @@
+/* Body Index */
+
+.first-paragraph {
+    font-size: 22px;
+    
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    padding-top: 40px;
+  }
+
+  .first-paragraph-word-style {
+      color: rgb(219, 219, 1);
+      font-weight: bold;
+  }
+
+  .SBQx {
+    font-size: 130%;
+  }
+
+  
+  .foto-portada-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.foto-portada-tamanio {
+    display: grid;
+    grid-column-start: 2;
+    margin: auto;
+    height: 416px;
+    width: 625px;
+}
+
+
+/* Body SobreSBQ */
+
+
+.content-sobresbq {
+    font-size: 22px;
+   
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    padding-top: 40px;
+}
+
+/* Body Como se usa */
+
+.ComoSeUsaContainer {
+    font-size: 20px;
+    
+    word-spacing: 1px;
+    letter-spacing: 0,5px;
+    padding-top: 40px;
+}
+
+.video-container {
+    text-align: center;
+}
+
+.video-titulo {
+    text-align: center;
+}
+
+.content-ComoSeUsa {
+    font-size: 28px;
+    
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.list-style {
+    list-style: none;
+    text-align: center;
+}
+
+.p-top {
+    padding-top: 25px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 26px;
+}
+.content-faq {
+    font-size: 24px;
+    text-align: center;
+    word-spacing: 1px;
+    letter-spacing: 0,5px;
+}
+
+.bold-style {
+    font-weight: bold;
+}
+
+
+/* Comprar */
+
+.precio-tachado {
+    text-decoration: line-through;
+}
